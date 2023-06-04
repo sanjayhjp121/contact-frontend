@@ -1,1 +1,1 @@
-export const BASE_URL = "http://localhost:4000"
+export const BASE_URL = "https://contact-app-u9nh-api.onrender.com"
